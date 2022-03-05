@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/viet-dung-design/static/css/main.e8ab3b35.css",
+    "main.js": "/viet-dung-design/static/js/main.6534095c.js",
+    "static/js/787.0ba37ca2.chunk.js": "/viet-dung-design/static/js/787.0ba37ca2.chunk.js",
+    "static/media/image19.jpg": "/viet-dung-design/static/media/image19.e93c87f312ce642fc3c6.jpg",
+    "static/media/image3.jpg": "/viet-dung-design/static/media/image3.a90abfe425a27420295e.jpg",
+    "static/media/image16.jpg": "/viet-dung-design/static/media/image16.586f9c267f1248785c2d.jpg",
+    "static/media/image.jpg": "/viet-dung-design/static/media/image.3e7b4dba27700a24b555.jpg",
+    "static/media/banner.jpg": "/viet-dung-design/static/media/banner.81b961ec05ae4622269b.jpg",
+    "static/media/image10.jpg": "/viet-dung-design/static/media/image10.81b961ec05ae4622269b.jpg",
+    "static/media/logo2.png": "/viet-dung-design/static/media/logo2.c4e13ad78c2b78a5f2e5.png",
+    "static/media/image2.jpg": "/viet-dung-design/static/media/image2.b4ee2c4678b7e6ca5f70.jpg",
+    "static/media/image7.jpg": "/viet-dung-design/static/media/image7.06c4e3f2de78b4974380.jpg",
+    "static/media/image1.jpg": "/viet-dung-design/static/media/image1.0d4ba79b8b6bb8473027.jpg",
+    "static/media/image14.jpg": "/viet-dung-design/static/media/image14.f4320062a1d28029fc23.jpg",
+    "static/media/image5.jpg": "/viet-dung-design/static/media/image5.385de6b8a919ba6e3a98.jpg",
+    "static/media/image9.jpg": "/viet-dung-design/static/media/image9.d72b2d56b300c5bbe8a8.jpg",
+    "static/media/image13.jpg": "/viet-dung-design/static/media/image13.c399b514d9373703c583.jpg",
+    "static/media/image15.jpg": "/viet-dung-design/static/media/image15.337cf9d3fdfa862d8dc5.jpg",
+    "static/media/image6.jpg": "/viet-dung-design/static/media/image6.8207f7992b9e2e029520.jpg",
+    "static/media/image20.jpg": "/viet-dung-design/static/media/image20.98d0d0300ab2974a2b3b.jpg",
+    "static/media/image21.jpg": "/viet-dung-design/static/media/image21.0befac8f06e088badd00.jpg",
+    "static/media/image18.jpg": "/viet-dung-design/static/media/image18.70cdc39ae337f94bed3a.jpg",
+    "static/media/image8.jpg": "/viet-dung-design/static/media/image8.308f3204a136aa821175.jpg",
+    "static/media/image12.jpg": "/viet-dung-design/static/media/image12.da39791ed6ed455de253.jpg",
+    "static/media/image17.jpg": "/viet-dung-design/static/media/image17.3ca8413e35e3b12cd6c7.jpg",
+    "static/media/image4.jpg": "/viet-dung-design/static/media/image4.6506167dd9deb6200da0.jpg",
+    "static/media/image11.jpg": "/viet-dung-design/static/media/image11.20dfc1ec62dcb7f8a15a.jpg",
+    "index.html": "/viet-dung-design/index.html",
+    "main.e8ab3b35.css.map": "/viet-dung-design/static/css/main.e8ab3b35.css.map",
+    "main.6534095c.js.map": "/viet-dung-design/static/js/main.6534095c.js.map",
+    "787.0ba37ca2.chunk.js.map": "/viet-dung-design/static/js/787.0ba37ca2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8ab3b35.css",
+    "static/js/main.6534095c.js"
+  ]
+}
